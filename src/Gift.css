@@ -3,10 +3,20 @@
   overflow: visible;
 }
 
+.gift {
+  position: relative;
+}
+
 .gift-lid {
   cursor: pointer;
 }
 
 .gift-lid.open {
   transform: translate(-137px, 74px) rotate(-42deg);
+}
+
+.confetti-canon {
+  position: absolute;
+  top: 39%;
+  left: 45%;
 }

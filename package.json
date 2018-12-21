@@ -5,7 +5,8 @@
   "dependencies": {
     "lodash.uniqueid": "^4.0.1",
     "react": "^16.7.0",
-    "react-dom": "^16.7.0"
+    "react-dom": "^16.7.0",
+    "react-dom-confetti": "^0.0.10"
   },
   "devDependencies": {
     "react-scripts": "2.1.1"
