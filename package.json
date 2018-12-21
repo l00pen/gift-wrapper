@@ -2,6 +2,7 @@
   "name": "gift-wrapper",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://l00pen.github.io/gift-wrapper",
   "dependencies": {
     "lodash.uniqueid": "^4.0.1",
     "react": "^16.7.0",
